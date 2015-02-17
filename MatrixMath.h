@@ -14,6 +14,10 @@
 /// * Rei Vilo - Jan 26, 2013 - Initial port to Energia
 /// * Rick - Jan 27, 2013 - http://forum.43oh.com/topic/3275-is-there-an-energia-matrix-math-library-for-the-msp430-and-stellaris/?p=28604
 /// * Rei Vilo - Feb 04, 2013 - Revised library with examples
+/// * Edison Developers - Feb 16, 2015 - Addition of the following functions:
+///	*					void normalizeVec(float* vector)
+///	*					float dotProduct(float* vector_one, float* vector_two)
+///	*					void scalar_product(float* matrixIn, double scalar
 ///
 /// @n
 /// @n @a	Developed with [embedXcode](http://embedXcode.weebly.com)
